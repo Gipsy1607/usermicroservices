@@ -1,0 +1,8 @@
+project-directory
+  ├── src
+ │   ├── Index.js
+ │   ├── userController.js
+ │   ├── User.Model.js
+ │   └── routes.js
+  ├── package.json
+  └── .env
